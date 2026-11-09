@@ -35,6 +35,16 @@ registers and combines the surviving frames into a single master.
 - [Installing on another host](#installing-on-another-host-eg-a-nas) · [PixInsight bridge notes](#notes-on-the-pixinsight-bridge)
 - [Trail detector](#validating-the-trail-detector) · [FITS gotcha](#fits-reading-gotcha)
 
+## License
+
+This project's code and documentation are released under the [MIT License](LICENSE).
+Copyright © 2026 Pavel Beníšek. You may use, modify and redistribute the software,
+including commercially, provided you retain the copyright and license notice.
+The software is provided without warranty.
+
+Third-party dependencies and external applications retain their own licenses.
+PixInsight is not included; using that backend requires a separate PixInsight license.
+
 ## Install
 
 ```bash
